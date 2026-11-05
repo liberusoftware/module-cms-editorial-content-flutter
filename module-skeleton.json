@@ -1,0 +1,15 @@
+{
+  "repository": "module-cms-editorial-content-flutter",
+  "capabilityKey": "planned:cms:editorial-content",
+  "presentation": "mobile-flutter",
+  "package": "module_cms_editorial_content_flutter",
+  "foundation": "module-boilerplate-flutter",
+  "foundationCommit": "ff95e801183203fd3ab58993d7793fbae549151e",
+  "canonicalPlan": "projects/cms/nextjs/editorial-content.md",
+  "presentationPlan": "projects/cms/flutter/editorial-content.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "cms"
+  ]
+}
